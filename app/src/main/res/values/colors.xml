@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#ffffff</color>
+    <color name="transparent">#00ffffff</color>
+    <color name="button_color">#FF4081</color>
+    <color name="black_color">#000000</color>
+    <color name="secondary_text">#99999D</color>
+    <color name="search_backdrop">#f2f2f4</color>
+    <color name="primary_text">#1B1B1D</color>
+    <color name="primary_a">#0077BE</color>
+    <color name="sign_in_text_color">#020202</color>
+</resources>

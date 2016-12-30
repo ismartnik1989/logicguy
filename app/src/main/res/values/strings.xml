@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+   <resources>
+<string name="app_name">Color Memory Game</string>
+ <string-array name="type">
+    <item>New Game</item>
+    <item>4 X 4</item>
+    <item>4 X 5</item>
+    <item>4 X 6</item>
+    <item>5 X 6</item>
+    <item>6 X 6</item>
+</string-array>
+
+   <string name="high_score">High Score</string>
+   <string name="hint_name">Name*</string>
+   <string name="done_button">Done</string>
+   <string name="enter_name">Please Enter Your Name</string>
+</resources>
